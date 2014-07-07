@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.0" type="file" method="upgrade">
+  <name>Portuguese (Brasil) language pack for JEA 2.0</name>
+  <author>Luis Fernando Mangia</author>
+  <authorEmail>luisfernandomangia@hotmail.com</authorEmail>
+  <authorUrl>www.luisfernandomangia.com.br</authorUrl>
+  <creationDate>06 de julho de 2014</creationDate>
+  <copyright></copyright>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <version>3.0</version>
+  <description>Portuguese (Brasil) language pack for JEA 2.0 tailored to local market needs.</description>
+  <fileset>
+    <files folder="administrator" target="admin/components/com_jea/language/pt-BR">
+        <filename>pt-BR.com_jea.ini</filename>
+	<filename>pt-BR.com_jea.sys.ini</filename>
+    </files>
+    <files folder="site" target="language/pt-BR">
+        <filename>pt-BR.mod_jea_emphasis.ini</filename>
+	<filename>pt-BR.mod_jea_emphasis.sys.ini</filename>
+        <filename>pt-BR.mod_jea_search.ini</filename>
+	<filename>pt-BR.mod_jea_search.sys.ini</filename>
+    </files>
+    <files folder="site" target="components/com_jea/language/pt-BR">
+        <filename>pt-BR.com_jea.ini</filename>
+    </files>
+  </fileset>
+</extension>
