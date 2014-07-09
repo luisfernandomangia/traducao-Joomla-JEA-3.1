@@ -1,3 +1,3 @@
-traducao-Joomla-JEA-3.1
+Tradução do componente JEA-3.1 para Joomla 3.x
 =======================
-Tradução do componende de imobiliaria do Joomla JEA
+Tradução do componende de imobiliária do Joomla JEA
